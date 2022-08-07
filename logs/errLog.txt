@@ -1,0 +1,42 @@
+20220720	18:59:55	ddf038cf-ebdd-4ba2-9304-cd46d2151845	SyntaxError: Unexpected string in JSON at position 60
+20220720	19:03:29	d4cc808e-765f-47c4-9516-1b968185976e	Error: ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_project_smartMange\views\404.html'
+20220720	19:03:33	b4ce35d8-f6b5-4b0e-b1e2-f7e99178c106	Error: ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_project_smartMange\views\404.html'
+20220720	19:04:41	e68aa591-460a-4312-8e70-16c384273390	SyntaxError: Unexpected number in JSON at position 113
+20220720	19:04:47	0ba6c693-c568-4a31-8a0a-29c8f2bf2960	SyntaxError: Unexpected string in JSON at position 113
+20220721	07:11:47	f83063d8-5c9b-4d68-9f5d-1237aec60bdf	Error: ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_project_smartMange\views\404.html'
+20220721	07:26:36	5a42130b-19ac-4f05-8d93-7a82c7130bb6	SyntaxError: Unexpected token } in JSON at position 117
+20220721	07:26:53	447e4198-4f85-4810-9953-799d96af873e	SyntaxError: Unexpected token } in JSON at position 117
+20220721	08:04:43	005275ef-13bd-48d6-b5be-aee4a9e41f9e	SyntaxError: Unexpected token } in JSON at position 63
+20220721	08:04:44	76262d94-6294-4c98-9692-1b284e5cc15c	SyntaxError: Unexpected token } in JSON at position 63
+20220721	08:44:27	8fd909ce-4830-4e59-9c39-af416c49ab3e	SyntaxError: Unexpected token " in JSON at position 4
+20220721	08:44:33	55d086cc-4df7-4758-888f-021ac484bd21	SyntaxError: Unexpected token e in JSON at position 4
+20220721	10:06:41	6386ed2a-2855-4f85-a3ba-5b3bbe1f9512	SyntaxError: Unexpected token } in JSON at position 129
+20220721	11:27:08	c729214d-172f-42b9-8179-4182703cc30c	SyntaxError: Unexpected token } in JSON at position 35
+20220721	12:02:13	d7e81a5c-feda-4155-a070-04b2384e3ee8	SyntaxError: Unexpected string in JSON at position 59
+20220721	12:03:09	1436e966-69c4-4dc3-837a-4d6cdc73d276	SyntaxError: Unexpected token } in JSON at position 59
+20220721	12:03:24	62722bca-0a3f-4320-a224-2f9593805b3d	SyntaxError: Unexpected token } in JSON at position 29
+20220721	14:24:55	3091c470-381e-4ded-813d-fc485a74f82c	SyntaxError: Unexpected token } in JSON at position 55
+20220721	14:28:01	83dec366-f157-4b79-94c6-47a3316d8c3b	SyntaxError: Unexpected string in JSON at position 56
+20220721	14:30:44	0a1b14d7-3668-41b6-9a78-0136e00342cf	SyntaxError: Unexpected token } in JSON at position 51
+20220721	14:31:01	6c24f272-e8a7-4d8f-a895-b1d683f05d04	SyntaxError: Unexpected token } in JSON at position 36
+20220721	14:39:16	a1d96cdd-c232-4a55-9188-f839f7b1a01f	SyntaxError: Unexpected token } in JSON at position 87
+20220721	14:41:41	8d425a14-cb14-4bca-aa14-a79b4f26243e	SyntaxError: Unexpected token } in JSON at position 71
+20220721	14:42:50	66fb0cd4-a13a-4085-af03-d1a15e88b1b7	SyntaxError: Unexpected token } in JSON at position 99
+20220721	14:43:20	d640e8a3-cf89-4f39-bb72-588489b082ae	SyntaxError: Unexpected string in JSON at position 101
+20220721	17:44:40	c8eae9d6-5cb7-4855-a6cb-de79f61bd366	SyntaxError: Unexpected token " in JSON at position 3
+20220721	17:44:57	8863718f-0e75-48bf-8723-7fa3a3ac34c0	SyntaxError: Unexpected token } in JSON at position 130
+20220721	17:45:31	8e0fb43f-19e8-410a-9487-b266821eb0c4	SyntaxError: Unexpected string in JSON at position 133
+20220722	07:30:19	748443ef-592e-4a4e-ba59-d46eab91e0b1	Error: Not allowed by CORS
+20220722	07:30:26	23de00c1-ae72-4bb1-a777-4f342327bf5c	Error: Not allowed by CORS
+20220722	07:32:12	1aa47b02-b21b-4aca-94be-4f8dc32c4d49	Error: Not allowed by CORS
+20220722	13:58:57	54dabd38-4dea-460b-839f-684e510072d7	SyntaxError: Unexpected token e in JSON at position 0
+20220722	13:59:06	ec1a5085-9f07-4860-8c30-b749c8eea4e0	SyntaxError: Unexpected token e in JSON at position 0
+20220723	17:58:32	8ba8f85c-8c20-479b-b6b4-abe9edfa6b4f	Error: Not allowed by CORS
+20220723	17:58:40	fa85aa37-f411-4e6a-b455-f413684347ba	Error: Not allowed by CORS
+20220723	17:59:48	0bb1b6ab-ca28-44f3-8698-41cbd20c7321	Error: Not allowed by CORS
+20220723	18:00:47	13454bbe-8e6a-4e2e-99cd-676ccd97b8e6	Error: Not allowed by CORS
+20220725	14:17:20	a788da25-2a08-488a-aba1-9314bddf58ad	SyntaxError: Unexpected string in JSON at position 23
+20220729	09:42:19	8752333a-00b4-497b-8f39-5eeacd94359f	SyntaxError: Unexpected token ] in JSON at position 125
+20220730	15:36:29	387c71c7-51cb-481b-a4a4-a5d38b8a4004	SyntaxError: Unexpected number in JSON at position 9
+20220801	10:53:13	bef0fb70-9bee-4967-b161-9a7653e6dee8	SyntaxError: Unexpected token } in JSON at position 143
+20220801	11:38:34	78e4011c-810c-4fe8-ab7b-a80ddc191aeb	SyntaxError: Unexpected token { in JSON at position 11
