@@ -12,7 +12,6 @@
     "stack": "heroku-22"
   },
    
-
   "scripts": {
     "start": "node index.js"
   },

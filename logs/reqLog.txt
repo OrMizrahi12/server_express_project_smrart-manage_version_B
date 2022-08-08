@@ -22948,3 +22948,5 @@
 20220807	17:08:18	158b28aa-f631-4101-9d35-a79512b0ed57	GET	http://localhost:3000	/ideas/user/62e794c7cf5ab3c3b0c73597
 20220807	17:08:18	e875c717-9f4a-4b8c-a3d0-0d42b87aa7f7	GET	http://localhost:3000	/meetings/user/62e794c7cf5ab3c3b0c73597
 20220807	17:08:18	65e99a82-abe3-4d16-a5fc-af40f631f3a8	GET	http://localhost:3000	/remainders/user/62e794c7cf5ab3c3b0c73597
+20220808	07:32:17	59700739-dbab-48ca-8cb4-544795f22c4f	GET	undefined	/
+20220808	07:32:22	e0abb1c2-cf41-44b2-bb9c-7654fb5e523b	GET	undefined	/workers
