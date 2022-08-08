@@ -24,7 +24,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use(express.static(path.join(__dirname,"public")))
-app.use('/', require('./public/api/home/index'))
+app.use('/', require('./public/api/home'))
 app.use('/register',require('./public/routes/verifications/register')) //#1 (to #2 go to rejisterController.js)
 app.use('/auth',require('./public/routes/verifications/auth')) 
 app.use('/refresh', require('./public/routes/verifications/refresh'));
