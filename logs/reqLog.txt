@@ -23023,3 +23023,7 @@
 20220808	10:27:55	553072e4-db52-4320-a170-19e1dcab8337	DELETE	http://localhost:3001	/workers/62f0baf8c134bc8684acb0bd
 20220808	10:27:55	c73159f0-d974-4979-84c7-a7e19c789f2c	GET	http://localhost:3001	/workers/user/62e794c7cf5ab3c3b0c73597
 20220808	10:28:08	7195165b-134a-4102-9cff-e7273bafcd80	GET	http://localhost:3001	/projects/user/62e794c7cf5ab3c3b0c73597
+20220808	11:03:56	6301d83d-eca4-4bcb-a06d-8ff4fde2deff	GET	undefined	/
+20220808	11:03:56	5c6a6097-79db-419c-b9b4-fc0ea578e71b	GET	undefined	/favicon.ico
+20220808	11:04:51	cc671107-2827-4fa2-a028-b9cbf83b49fa	GET	undefined	/
+20220808	11:04:51	540a04a0-96de-475e-8905-ffc8970e82c7	GET	undefined	/favicon.ico
