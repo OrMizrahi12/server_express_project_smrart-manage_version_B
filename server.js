@@ -17,7 +17,6 @@ const PORT = process.env.PORT || 3500;
 
 connectDB();
 
-app.use(favicon(path.join(__dirname, 'public', 'logo.ico'))) 
 app.use(logger);
 app.use(credentials);
 app.use(cors(corsOptions));
@@ -27,6 +26,8 @@ app.use(cookieParser());
 
 
 app.use(express.static(path.join(__dirname,"public")))
+app.use(favicon(path.join(__dirname, 'public', 'logo.ico'))) 
+
 app.use('/', require('./public/api/home/index'))
 app.use('/register',require('./public/routes/verifications/register')) //#1 (to #2 go to rejisterController.js)
 app.use('/auth',require('./public/routes/verifications/auth')) 
