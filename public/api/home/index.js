@@ -1,9 +1,9 @@
 const express = require('express');
 const router = express.Router();
-
+const path = require('path');
 
 router.get('/', (req, res) => {
-    res.json({"msg": "hello my frind, welcome to the server"});
+    res.sendFile(path.join(__dirname, 'views','home.html' ));
 });
 
 module.exports = router;

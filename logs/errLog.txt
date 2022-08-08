@@ -40,3 +40,7 @@
 20220730	15:36:29	387c71c7-51cb-481b-a4a4-a5d38b8a4004	SyntaxError: Unexpected number in JSON at position 9
 20220801	10:53:13	bef0fb70-9bee-4967-b161-9a7653e6dee8	SyntaxError: Unexpected token } in JSON at position 143
 20220801	11:38:34	78e4011c-810c-4fe8-ab7b-a80ddc191aeb	SyntaxError: Unexpected token { in JSON at position 11
+20220808	14:22:05	cbd1970d-0b53-4803-9f61-3c140f45ebb5	Error: ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\serverprojectone\public\api\home\public\views\home.html'
+20220808	14:23:14	f87c5036-1886-4f0c-9ea0-5cae25491c0f	Error: ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\serverprojectone\public\api\home\views\home.html'
+20220808	14:23:35	99ce57da-62b2-4193-9971-7edafed3b844	Error: ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\serverprojectone\public\api\home\views\home.html'
+20220808	14:24:52	bfa3fa63-6540-44d3-b901-9a01c7683d66	Error: ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\serverprojectone\public\api\home\views\home.html'
