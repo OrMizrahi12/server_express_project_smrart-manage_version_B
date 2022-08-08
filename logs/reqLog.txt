@@ -23087,3 +23087,12 @@
 20220808	15:15:22	503319a9-e73f-4321-9b34-aff114aaf4fc	GET	undefined	//
 20220808	15:15:25	192c55da-215d-4faa-9dfc-d2ed6da8f99e	GET	undefined	/
 20220808	15:15:25	f14efec8-c13d-4793-9ee3-abcdd2a8bc62	GET	undefined	/css/style.css
+20220808	15:20:59	96114553-26be-4088-8e78-88c805e80552	GET	undefined	/favion.ico
+20220808	15:21:18	5962e2c2-8b6d-48d3-a4a8-654a37a5d674	GET	undefined	/favicon.ico
+20220808	15:21:48	d0899fd8-0689-450c-af4e-e27d6ee36e66	GET	undefined	/favicon.ico
+20220808	15:22:08	44695f60-703a-4973-836b-af94ef416164	GET	undefined	/favicon.ico
+20220808	15:22:13	e2636093-d6ef-4410-9097-a337c48a71dc	GET	undefined	/
+20220808	15:22:14	a41561d9-59b3-4a4d-9322-e40ff7a8ec5f	GET	undefined	/css/style.css
+20220808	15:22:17	db8ac257-6ecd-4b9c-ad29-fcaf1c0bfc8b	GET	undefined	/
+20220808	15:22:17	448e313a-5873-4c2a-876a-450ab0188ca0	GET	undefined	/css/style.css
+20220808	15:22:17	334100ca-2b80-4de2-96bf-2055c10ea28e	GET	undefined	/favicon.ico
