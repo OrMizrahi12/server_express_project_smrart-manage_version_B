@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "client": "npm start --premix client",
+     "dev":"concurrently \"nodemon server\" \"npm run client",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
