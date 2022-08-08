@@ -1,5 +1,17 @@
 {
+  "name": "l29_6_2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "joi": "^17.6.0",
+    "lodash": "^4.17.21",
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
@@ -8,24 +20,8 @@
     "express": "^4.18.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.5",
-    "uuid": "^8.3.2",
-    "stack": "heroku-22",
-    "main": "index.js"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "engines": {
-    "node": "18.x"
-  },
-  "name": "server_project_smartmange",
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
+    "uuid": "^8.3.2"
+    
 
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
