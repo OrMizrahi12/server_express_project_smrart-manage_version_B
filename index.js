@@ -12,7 +12,7 @@ const credentials = require('./middleware/credentials');
 const mongoose = require('mongoose');
 const connectDB = require('./config/dbConn'); 
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3500;
 
 connectDB();
 
@@ -24,7 +24,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use(express.static(path.join(__dirname,"public")))
-app.use('/', require('./public/api/home/home'))
+app.use('/', require('./public/api/home/index'))
 app.use('/register',require('./public/routes/verifications/register')) //#1 (to #2 go to rejisterController.js)
 app.use('/auth',require('./public/routes/verifications/auth')) 
 app.use('/refresh', require('./public/routes/verifications/refresh'));

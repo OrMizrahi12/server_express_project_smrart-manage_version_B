@@ -12,14 +12,20 @@
     "stack": "heroku-22",
     "main": "index.js"
   },
-   
   "scripts": {
-    "build": "bower install && grunt build",
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "engines": {
     "node": "18.x"
-  }
-}
+  },
+  "name": "server_project_smartmange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
 
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
