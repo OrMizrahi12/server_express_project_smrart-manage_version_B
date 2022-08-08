@@ -14,7 +14,7 @@ const connectDB = require('./config/dbConn');
 const favicon = require('serve-favicon')
 
 const PORT = process.env.PORT || 3500;
-
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 connectDB();
 
 app.use(logger);
@@ -65,5 +65,5 @@ app.use(errorHandler);
 
 mongoose.connection.once('open', () => {
     console.log('Connected to MongoDB');
-    app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+    
 });
