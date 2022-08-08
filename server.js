@@ -26,7 +26,7 @@ app.use(cookieParser());
 
 
 app.use(express.static(path.join(__dirname,"public")))
-app.use(favicon(path.join(__dirname, 'public', 'logo.ico'))) 
+app.use(favicon(path.join(__dirname, 'public', 'favicon.ico'))) 
 
 app.use('/', require('./public/api/home/index'))
 app.use('/register',require('./public/routes/verifications/register')) //#1 (to #2 go to rejisterController.js)

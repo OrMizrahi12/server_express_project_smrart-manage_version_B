@@ -23074,3 +23074,16 @@
 20220808	14:33:29	307f7910-33c0-41fb-b711-bb08237210e9	GET	undefined	/
 20220808	14:33:29	85477222-932c-4ffb-8bee-b5b8d8760163	GET	undefined	/css/style.css
 20220808	14:33:29	7ec38f81-2ac7-496c-b427-a430ef68d5f4	GET	undefined	/favicon.ico
+20220808	15:14:57	868e5db4-5ebe-4926-b71e-b77f9176676f	GET	undefined	/
+20220808	15:14:57	b98cffbe-3848-4bc1-8d92-d42112da07b6	GET	undefined	/css/style.css
+20220808	15:14:57	9a2c4351-eff7-43d8-97cc-963cb64afecd	GET	undefined	/css/style.css
+20220808	15:14:57	b092edd3-d573-46cf-9f59-2aeacc42eab7	GET	undefined	/favicon.ico
+20220808	15:15:00	2069763a-27bf-4db9-b7ec-bb1eaa0285b7	GET	undefined	//favicon.ico
+20220808	15:15:08	a4b7455d-2275-459c-89fe-56ef7e6582bd	GET	undefined	/favicon.ico
+20220808	15:15:11	9413b608-5a96-4a2f-875c-f5e9d5cc8e84	GET	undefined	/favicon.ico
+20220808	15:15:11	3760da1c-ea9f-41b5-8763-872a670caca8	GET	undefined	/favicon.ico
+20220808	15:15:19	90ac5081-63fa-42fc-8637-23079e245020	GET	undefined	/
+20220808	15:15:19	c9c38b55-5a05-417b-80d5-4777f332cca2	GET	undefined	/css/style.css
+20220808	15:15:22	503319a9-e73f-4321-9b34-aff114aaf4fc	GET	undefined	//
+20220808	15:15:25	192c55da-215d-4faa-9dfc-d2ed6da8f99e	GET	undefined	/
+20220808	15:15:25	f14efec8-c13d-4793-9ee3-abcdd2a8bc62	GET	undefined	/css/style.css
