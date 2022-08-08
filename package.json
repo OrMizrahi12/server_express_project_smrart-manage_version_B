@@ -9,11 +9,14 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.4.5",
     "uuid": "^8.3.2",
-    "stack": "heroku-22"
+    "stack": "heroku-22",
+    "main": "index.js"
   },
    
   "scripts": {
-    "start": "node index.js"
+    "build": "bower install && grunt build",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
     "node": "18.x"
