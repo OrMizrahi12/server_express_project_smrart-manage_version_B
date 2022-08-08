@@ -23096,3 +23096,4 @@
 20220808	15:22:17	db8ac257-6ecd-4b9c-ad29-fcaf1c0bfc8b	GET	undefined	/
 20220808	15:22:17	448e313a-5873-4c2a-876a-450ab0188ca0	GET	undefined	/css/style.css
 20220808	15:22:17	334100ca-2b80-4de2-96bf-2055c10ea28e	GET	undefined	/favicon.ico
+20220808	17:45:15	be5e0ea0-c5e5-46ba-a118-e04324a67131	OPTIONS	https://62efcacb657d69223757ab8b--unique-kitsune-cc49bf.netlify.app	/auth/
