@@ -47,22 +47,22 @@ const updateWorker = async (req, res) => {
     const worker = await Worker.findOne({ _id: req.params._id }).exec();
     if (!worker) {
         return res.status(204).json({ "message": `No Worker matches ID ${req.body._id}.` });
-    }
-    
-    // if(!firstname || !lastname || !email || !role || !seniority || !userId){
-    //     return res.status(400).json({ 'message': ' parameters is required.' });
-    // }
-   
-    if (req.body?.firstname) worker.firstname = req.body.firstname;
-    if (req.body?.lastname) worker.lastname = req.body.lastname;
-    if (req.body?.email) worker.email = req.body.email;
-    if (req.body?.role) worker.role = req.body.role;
-    if (req.body?.userId) worker.userId = req.body.userId;
-    if (req.body?.seniority) worker.seniority = req.body.seniority;
+    }      
+    if (req.body?.firstname) 
+        worker.firstname = req.body.firstname;
+    if (req.body?.lastname) 
+        worker.lastname = req.body.lastname;
+    if (req.body?.email)
+        worker.email = req.body.email;
+    if (req.body?.role)
+        worker.role = req.body.role;
+    if (req.body?.userId)
+        worker.userId = req.body.userId;
+    if (req.body?.seniority) 
+        worker.seniority = req.body.seniority;
     const result = await worker.save();
     res.json(result);
 }
-
 const deleteWorker = async (req, res) => {
     if (!req?.params?._id) return res.status(400).json({ 'message': 'Worker ID required.' });
 
@@ -70,7 +70,7 @@ const deleteWorker = async (req, res) => {
     if (!worker) {
         return res.status(204).json({ "message": `No Worker matches ID ${req.params._id}.` });
     }
-    const result = await worker.deleteOne(); //{ _id: req.body.id }
+    const result = await worker.deleteOne(); 
     res.json(result);
 }
 
