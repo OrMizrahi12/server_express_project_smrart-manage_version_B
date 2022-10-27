@@ -33,11 +33,6 @@ app.use('/register',require('./public/routes/verifications/register')) //#1 (to 
 app.use('/auth',require('./public/routes/verifications/auth')) 
 app.use('/refresh', require('./public/routes/verifications/refresh'));
 app.use('/logout', require('./public/routes/verifications/logout'));
-
-// protect routes
-// #19 the user pass the verification successfully
-
-// #20 the user want to do put,delet, or another request (for #21 go to workers.js )
 app.use('/workers',require('./public/api/workers'))
 app.use('/posts',require('./public/api/posts'))
 app.use('/todos',require('./public/api/todos'))
