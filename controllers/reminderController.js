@@ -10,13 +10,6 @@ const getAllRemainders = async (req, res) => {
 const createNewRemainder = async (req, res) => {
     const { remainder ,userId} = req.body;
     let arr = []
-
-    // if (!remainder) {
-    //     arr.push('remainder')
-    //     arr.push('userId')
-    //     return res.status(400).json({ 'you must fill:': arr });
-    // }
-
     try {
         const result = await Remainder.create({
             remainder: req.body.remainder,
@@ -28,8 +21,6 @@ const createNewRemainder = async (req, res) => {
         console.error(err);
     }
 }
-
-
 const deleteMRemainder = async (req, res) => {
     if (!req?.params?._id) return res.status(400).json({ 'message': 'todo ID required.' });
 
